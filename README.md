@@ -6,7 +6,7 @@
 使用方法如下:<br/>
 添加attrs.xml文件<br/>
 <img src='./img/attrs_img.png'/><br/>
-在布局文件中使用:
+在布局文件中使用:<br/>
 <img src='./img/src_img.png'/><br/>
-在java文件中使用:
+在java文件中使用:<br/>
 <img src='./img/java_img.png'/><br/>
